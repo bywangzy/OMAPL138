@@ -1,5 +1,6 @@
 # Prerequisites
 *.d
+*.pp
 
 # Object files
 *.o
@@ -11,7 +12,7 @@
 *.ilk
 *.map
 *.exp
-*linkInfo.xml
+*_linkInfo.xml
 
 # Precompiled Headers
 *.gch
